@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGMr3fcHsnAwGaoMLUybrlzRQPcEKGMm902R6tEBOzaf51ZPntDTJermuwFkzp85dXvbdMbro510WGDj/VhF7Q==",
+  "success": true,
+  "projectFilePath": "E:\\AlifAC C#\\HW\\HW-8.1\\HW-8.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsula\\.nuget\\packages\\languageext.core\\3.4.15\\languageext.core.3.4.15.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\zsula\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

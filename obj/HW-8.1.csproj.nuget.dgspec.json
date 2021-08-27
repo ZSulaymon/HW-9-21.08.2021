@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\AlifAC C#\\HW\\HW-8.1\\HW-8.1.csproj": {}
+  },
+  "projects": {
+    "E:\\AlifAC C#\\HW\\HW-8.1\\HW-8.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AlifAC C#\\HW\\HW-8.1\\HW-8.1.csproj",
+        "projectName": "HW-8.1",
+        "projectPath": "E:\\AlifAC C#\\HW\\HW-8.1\\HW-8.1.csproj",
+        "packagesPath": "C:\\Users\\zsula\\.nuget\\packages\\",
+        "outputPath": "E:\\AlifAC C#\\HW\\HW-8.1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zsula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
